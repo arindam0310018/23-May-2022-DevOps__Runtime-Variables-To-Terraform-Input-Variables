@@ -6,6 +6,16 @@ In this Session, I will demonstrate -
 1. How to __Map Azure DevOps Runtime Variables to Terraform Input Variables.__ 
 2. If at all we need to put the values in __variables.tf__ or in __tfvars__.  
 
+I had the Privilege to talk on this topic in __ONE__ Azure Communities:-
+
+| __NAME OF THE AZURE COMMUNITY__ | __TYPE OF SPEAKER SESSION__ |
+| --------- | --------- |
+| __Virtual Boston Azure__ | __Virtual__ | 
+
+| __EVENT ANNOUNCEMENT:-__ |
+| --------- |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mbosqfqy03tbnfwb2ug7.jpg) |
+
 | __REQUIREMENTS:-__ |
 | --------- |
 
