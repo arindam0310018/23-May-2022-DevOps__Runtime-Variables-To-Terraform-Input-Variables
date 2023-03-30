@@ -16,6 +16,12 @@ I had the Privilege to talk on this topic in __ONE__ Azure Communities:-
 | --------- |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mbosqfqy03tbnfwb2ug7.jpg) |
 
+| __LIVE RECORDED SESSIONS:-__ |
+| --------- |
+| __LIVE DEMO__ was Recorded as part of my Presentation in __BOSTON AZURE USER GROUP__ Forum/Platform |
+| Duration of My Demo = __41 Mins 07 Secs__ |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-ssTKjHVP_Q/0.jpg)](https://www.youtube.com/watch?v=-ssTKjHVP_Q&t=26s) |
+
 | __REQUIREMENTS:-__ |
 | --------- |
 
